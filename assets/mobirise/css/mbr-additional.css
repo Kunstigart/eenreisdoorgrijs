@@ -678,3 +678,123 @@ h6,
 #msg-box5-13 H3 {
   color: #2b0680;
 }
+
+#menu-1b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1b .navbar-caption {
+  color: #ffffff;
+}
+#menu-1b .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1b .link,
+#menu-1b .dropdown-item {
+  color: #ffffff;
+}
+#menu-1b .link {
+  font-size: 0.75rem;
+}
+#menu-1b .dropdown-item,
+#menu-1b .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1b .link:hover,
+#menu-1b .dropdown-item:hover,
+#menu-1b .link:focus,
+#menu-1b .dropdown-item:focus {
+  color: #2b0680;
+}
+#menu-1b .link[aria-expanded="true"],
+#menu-1b .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-1b .nav-dropdown-sm .link:focus,
+#menu-1b .nav-dropdown-sm .link:hover,
+#menu-1b .nav-dropdown-sm .dropdown-item:focus,
+#menu-1b .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-1b .navbar,
+#menu-1b .nav-dropdown-sm,
+#menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1b .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-1b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1b .bg-color.transparent.opened .link:hover,
+#menu-1b .bg-color.transparent.opened .link:focus {
+  color: #2b0680;
+}
+#menu-1b .link[aria-expanded="true"],
+#menu-1b .dropdown-item[aria-expanded="true"] {
+  color: #2b0680!important;
+}
+#menu-1b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1b .close-icon::before,
+#menu-1b .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box8-1d .mbr-section-title,
+#msg-box8-1d p {
+  color: #fff;
+}
+#msg-box8-1d .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 80px;
+}
+#msg-box5-1e H3 {
+  color: #2b0680;
+}
+#msg-box5-1e P {
+  color: #2b0680;
+}
+#msg-box5-1f H3 {
+  color: #2b0680;
+}
+#msg-box5-1f P {
+  color: #2b0680;
+}
+#msg-box5-1g H3 {
+  color: #2b0680;
+}
+#msg-box5-1g P {
+  color: #2b0680;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1h H3 {
+  color: #ffffff;
+}
+#content2-1i BLOCKQUOTE {
+  color: #2b0680;
+}
+#content2-1i LI {
+  color: #2b0680;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1j H3 {
+  color: #ffffff;
+}
+#msg-box5-1k P {
+  color: #2b0680;
+}
+#msg-box5-1k H3 {
+  color: #2b0680;
+}
