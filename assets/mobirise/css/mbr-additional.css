@@ -779,18 +779,25 @@ h6,
 #header3-1h H3 {
   color: #ffffff;
 }
-#content2-1i BLOCKQUOTE {
-  color: #2b0680;
-}
-#content2-1i LI {
-  color: #2b0680;
-}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1j H3 {
   color: #ffffff;
+}
+#features1-1m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #553982;
+}
+#features1-1m .mbr-cards-col:nth-child(even) .card-title {
+  color: #2b0680;
+}
+#features1-1m .mbr-cards-col:nth-child(even) .card-text {
+  color: #2b0680;
+}
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
 }
 #msg-box5-1k P {
   color: #2b0680;
